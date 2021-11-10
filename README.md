@@ -2,4 +2,4 @@ Esta es la tarea de Annethy Paola Javier Montero, matricula 2020-10518, estas so
 
 ![Captura de pantalla 1](img/img1.png)
 ![Captura de pantalla 2](img/img2.png)
-"# AgendaRaect-t4" 
+"# AgendaReact-t4" 
